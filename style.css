@@ -1,0 +1,52 @@
+h1 {
+    background-image:url('./assets/Flat\ geometric\ Photos\ -\ Download\ Free\ High-Quality\ Pictures\ _\ Freepik.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: blue;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    }
+
+h2 {
+    color: rgba(255, 0, 0, 0.822);
+   background:rgba(128, 128, 128, 0.247);
+   text-align: center;
+   text-decoration:underline;
+   text-decoration-color: black;
+
+   }
+
+.font-weight {
+    font-weight: bold;
+   }
+
+.container {
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    margin: auto;
+  }
+   
+body {
+    font-size: 16px;
+  }
+
+h3 {
+    text-align: center;
+   }
+
+h4 {
+    color: rgba(0, 128, 0, 0.952);
+   }
+
+
+.font-style {
+  font-style:italic;
+   }
+
+
+
+
